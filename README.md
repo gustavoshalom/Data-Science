@@ -5,18 +5,19 @@
 </p>
 
 # Gustavo Sousa
-<sub>*Analista de Dados | Data Science* at Space Operations Center</sub>
+<sub>*Analista de Dados | Data Science*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Formado em Administração pela PUCPR, tive diversas experiências com análise e melhoria dos negócios, porém, verificando o atual contexto em que vivemos - imensa geração de dados - percebi que cada vez mais as decisões precisarão ser tomadas através de bons insights gerados a partir destes dados.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Decidi portanto migrar para esta mundo de análise de dados. 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+Buscando me especializar tomei a iniciativa de trabalhar alguns projetos por conta, os quais podem ser vistos abaixo:
+
+**Background in:** Python.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/gustavosousash/)
+
 
 
 ## Projetos:
