@@ -23,6 +23,7 @@ Buscando me especializar tomei a iniciativa de trabalhar alguns projetos por con
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Análise do comportamento do consumidor de um web site:** https://bit.ly/2LOaWz6 
+* **Desafios Quarentena Dados:** https://github.com/gustavoshalom/QuarentenaDados/blob/master/README.md
 ---
 
 
