@@ -9,7 +9,7 @@
 
 Formado em Administração pela PUCPR, tive diversas experiências com análise e melhoria dos negócios, porém, verificando o atual contexto em que vivemos - imensa geração de dados - percebi que cada vez mais as decisões precisarão ser tomadas através de bons insights gerados a partir destes dados.
 
-Decidi portanto migrar para esta mundo de análise de dados. 
+Decidi portanto migrar para este mundo de análise de dados. 
 
 Buscando me especializar tomei a iniciativa de trabalhar alguns projetos por conta, os quais podem ser vistos abaixo:
 
