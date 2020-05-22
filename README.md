@@ -4,8 +4,8 @@
   <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# Gustavo Sousa
+<sub>*Analista de Dados | Data Science* at Space Operations Center</sub>
 
 As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
 
