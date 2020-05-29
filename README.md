@@ -17,10 +17,11 @@ Buscando me especializar tomei a iniciativa de trabalhar alguns projetos por con
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gustavosousash/)
 
+**Artigos:**
+* ** Como fazer a transição do tempo de trabalho e o tempo pessoal no Home Office:** https://bit.ly/3dcvr4C - .
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Análise do comportamento do consumidor de um web site:** https://bit.ly/2LOaWz6 
 * **Desafios Quarentena Dados:** https://github.com/gustavoshalom/QuarentenaDados/blob/master/README.md
