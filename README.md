@@ -18,7 +18,7 @@ Buscando me especializar tomei a iniciativa de trabalhar alguns projetos por con
 * [LinkedIn](https://www.linkedin.com/in/gustavosousash/)
 
 **Artigos:**
-* ** Como fazer a transição do tempo de trabalho e o tempo pessoal no Home Office:** https://bit.ly/3dcvr4C - .
+* **Como fazer a transição do tempo de trabalho e o tempo pessoal no Home Office:** https://bit.ly/3dcvr4C - .
 
 
 ## Projetos:
