@@ -25,6 +25,7 @@ Buscando me especializar tomei a iniciativa de trabalhar alguns projetos por con
 
 * **Análise do comportamento do consumidor de um web site:** https://bit.ly/2LOaWz6 
 * **Desafios Quarentena Dados:** https://github.com/gustavoshalom/QuarentenaDados/blob/master/README.md
+* **Meu Primeiro Modelo Preditivo - ML - Modelo de Previsão de Preço de Imóveis:** https://bit.ly/2XFoLoZ
 ---
 
 
