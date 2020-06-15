@@ -19,6 +19,7 @@ Buscando me especializar tomei a iniciativa de trabalhar alguns projetos por con
 
 **Artigos:**
 * **Como fazer a transição do tempo de trabalho e o tempo pessoal no Home Office:** https://bit.ly/3dcvr4C 
+* **A Profissão mais sexy do século XXI é uma fraude?!:** https://bit.ly/30L5xRW
 
 ## Projetos:
 
