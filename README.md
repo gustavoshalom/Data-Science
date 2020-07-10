@@ -23,11 +23,11 @@ Buscando me especializar tomei a iniciativa de trabalhar alguns projetos por con
 
 ## Projetos:
 
-* **Análise do comportamento de consumidores de um web site:** https://bit.ly/2LOaWz6 
-* **Desafios Quarentena Dados:** https://github.com/gustavoshalom/QuarentenaDados/blob/master/README.md
+* **EDA - Pontuação de crédito de um Banco SaaS (PT e EN):** https://bit.ly/3260jAY
 * **Modelo Preditivo das notas do ENEM:** https://bit.ly/2BLPLvS
+* **Análise do comportamento de consumidores de um web site:** https://bit.ly/2LOaWz6 
 * **Modelo de Previsão de Preço de Imóveis:** https://bit.ly/2XFoLoZ
-
+* **Desafios Quarentena Dados:** https://github.com/gustavoshalom/QuarentenaDados/blob/master/README.md
 ---
 
 
