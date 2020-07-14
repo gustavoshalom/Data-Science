@@ -23,7 +23,7 @@ Buscando me especializar tomei a iniciativa de trabalhar alguns projetos por con
 
 ## Projetos:
 
-* **EDA - Pontuação de crédito de um Banco SaaS (PT e EN):** https://bit.ly/3260jAY
+* **EDA - Pontuação de crédito de um Banco SaaS (PT e EN):** https://bit.ly/2CaXHHA
 * **Modelo Preditivo das notas do ENEM:** https://bit.ly/2BLPLvS
 * **Análise do comportamento de consumidores de um web site:** https://bit.ly/2LOaWz6 
 * **Modelo de Previsão de Preço de Imóveis:** https://bit.ly/2XFoLoZ
