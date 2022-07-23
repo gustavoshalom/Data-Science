@@ -4,15 +4,19 @@
 </p>
 
 # Gustavo Sousa
-<sub>*Analista de Dados | Data Science*</sub>
+<sub>*Data Analyst | Data Science*</sub>
 
-Formado em Administração pela PUCPR, tive diversas experiências com análise e melhoria dos negócios, porém, verificando o atual contexto em que vivemos - imensa geração de dados - percebi que cada vez mais as decisões precisarão ser tomadas através de bons insights gerados a partir destes dados.
+A data world enthusiast. Since I discovered this area, I search for new knowledge to become a data scientist. I’m passionate about how to transform data into useful information and what they can tell us. 
 
-Decidi portanto migrar para este mundo de análise de dados. 
+Today I'm working as a Data Analyst at Globo, the biggest Media Tech in Brazil, helping the technology support teams guarantee better delivery to our public as BBB reality shows or the coverage of the Olympic games. 
 
-Buscando me especializar tomei a iniciativa de trabalhar alguns projetos por conta, os quais podem ser vistos abaixo:
+ Every day I work to understand the data and demands that our internal clients needs, solve problems and make how they can see their numbers and information in a better way to make better decisions in a day to day, through BI solutions in Data Studio, BigQuery and ServiceNow platforms. 
 
-**Background in:** Python.
+I love my family, my soccer team, technology, be with friends, know new places, and I do a social job as a catholic missionary!
+
+Below some projects I did out of work:
+
+**Background in:** Python, SQL, Data Viz.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gustavosousash/)
