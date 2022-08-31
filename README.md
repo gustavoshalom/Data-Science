@@ -4,9 +4,10 @@
 </p>
 
 # Gustavo Sousa
-<sub>*Data Analyst | Data Science*</sub> 
+<sub>*Data Analyst | BI Analyst | Data Scientist*</sub> 
                                              
  <img src="https://github.com/gustavoshalom/Data-Science/blob/master/IMG_7541.png" width=50% height=50%>
+
 
 I'm a data world enthusiast. Since I discovered this area in 2020, I search for new knowledge to become a data scientist. I’m passionate about how to transform data into useful information and what they can tell us. 
 
@@ -18,7 +19,7 @@ I love my family, my soccer team, technology, be with friends, know new places, 
 
 Below some projects I did out of work:
 
-**Background in:** Python, SQL, Data Viz.
+**Background in:** Python, SQL, Data Viz, Bigquery, GCP, Data Studio, Power BI
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gustavosousash/)
