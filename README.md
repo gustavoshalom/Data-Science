@@ -1,4 +1,4 @@
-# Gustavo Sousa
+# 👋 Hi, I’m Gustavo Sousa!
 *Data Analyst | BI Analyst | Data Scientist*
 <p align="center">                                             
 <img src="https://github.com/gustavoshalom/Data-Science/blob/master/IMG_7541.png" width=40% height=40%>
