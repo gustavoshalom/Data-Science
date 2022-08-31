@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" width=20% height=20%>
-</p>
-
 # Gustavo Sousa
 <sub>*Data Analyst | BI Analyst | Data Scientist*</sub> 
 <p align="center">                                             
