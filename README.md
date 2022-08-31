@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" >
+  <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" width=20% height=20%>
 </p>
 
 # Gustavo Sousa
