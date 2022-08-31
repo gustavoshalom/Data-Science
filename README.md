@@ -1,5 +1,5 @@
 # Gustavo Sousa
-<sub>*Data Analyst | BI Analyst | Data Scientist*</sub> 
+*Data Analyst | BI Analyst | Data Scientist*
 <p align="center">                                             
 <img src="https://github.com/gustavoshalom/Data-Science/blob/master/IMG_7541.png" width=40% height=40%>
 </p>
