@@ -5,9 +5,9 @@
 
 # Gustavo Sousa
 <sub>*Data Analyst | BI Analyst | Data Scientist*</sub> 
-                                             
+<p align="right">                                             
 <img src="https://github.com/gustavoshalom/Data-Science/blob/master/IMG_7541.png" width=40% height=40%>
-
+</p>
 
 I'm a data world enthusiast. Since I discovered this area in 2020, I search for new knowledge to become a data scientist. I’m passionate about how to transform data into useful information and what they can tell us. 
 
